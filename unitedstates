@@ -1,0 +1,422 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>USA | Respublica</title>
+<script type="text/javascript">
+    window.bubble_session_uid = '1604014059852x348970468479223600';
+</script>
+<script type="text/javascript">
+    window.headers_source_maps = [["plugin_main_headers_1497473108162x748255442121523200",162,163],["plugin_main_headers_1507658968231x782106515828375600",164,185],["plugin_main_headers_1513532376117x173494151776829440",186,191],["plugin_main_headers_1518279603919x687476512969195500",192,196],["plugin_main_headers_1525778499312x869621105111859200",197,355],["plugin_main_headers_1580238841425x582072028873097200",356,387],["plugin_page_headers_AAC",388,390],["plugin_page_headers_AAC",391,393],["plugin_page_headers_AAC",394,396],["plugin_page_headers_AAC",397,399],["plugin_page_headers_AAC",400,402],["plugin_page_headers_AAC",403,405],["plugin_page_headers_AAC",406,408],["plugin_page_headers_AAC",409,411],["plugin_page_headers_AAC",412,414],["custom_app_header",415,416]]
+</script>
+<script type="text/javascript">
+window.load_error_log = [];
+window.onerror = function load_error_function (msg, error_url, line, col) {
+  return window.load_error_log.push({ msg: msg, error_url: error_url, line: line, col: col })
+}
+</script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['pre_early'] = Date.now();
+</script>
+<meta name="referrer" content="origin">
+<script type="text/javascript" crossorigin="anonymous" charset="UTF-8" src="https://dhtiece9044ep.cloudfront.net/package/early_js/dd268d133928160ce0477aa496e40e77dc989e7bf0f4dba4f88bcf7132d53b15/xfalse"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_early'] = Date.now();
+</script>
+<script type="text/javascript">(function () {
+    function onWebFontFinish () {
+        window.google_web_fonts_active = true;
+if (window.google_web_fonts_active_cb) {
+    window.google_web_fonts_active_cb();
+}
+        (function fontface_loaded_snippet (font) {
+  if (window.fontface_loaded == null) {
+    window.fontface_loaded = {}
+  }
+  if (font != null) {
+    window.fontface_loaded[font] = true
+  } else {
+    window.all_fontface_loaded = true
+  }
+  if (window.fontface_webfonts_loaded_cb) {
+    return window.fontface_webfonts_loaded_cb(font)
+  }
+})()
+    }
+    var WebFontConfig = {'google': { families: ["Grenze Gotisch:regular","Lato","Lato","Open Sans","Open Sans:300","Open Sans:italic","Open Sans:regular"] },
+        active: function() {
+            onWebFontFinish()
+        },
+        inactive: function() {
+            console.log('Failed to load all the fonts');
+            onWebFontFinish()
+        },
+        fontinactive: function(family_name, fvd) {
+            console.log('fontinactive being called for ' + family_name + ', Google says the fonts didnt render');
+            onWebFontFinish()
+        }
+    }
+        window.WebFont.load(WebFontConfig);
+})();</script>
+<script>
+(function initialize_data() {
+var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = function() {
+    if (this.readyState === 4 && this.status === 200) {
+        var data = JSON.parse(this.responseText);
+
+        function init_data() {
+            data.forEach(function(d) {
+                Lib().db_instance().initialize_data(d.id, d.data, d.type, d.version);
+            })
+        }
+
+        if (window.Lib) {
+            init_data();
+        } else {
+            window.Lib_post_load = init_data;
+        }
+    }
+};
+xhr.open("GET", "https://respublica.co/api/1.1/init/data?location=" + encodeURIComponent(window.location.href), true);
+xhr.send();
+})();
+</script>
+<script type="text/javascript">window.gm_key = "AIzaSyDrc7Z2Xh0LNmHty4bO9Jine0mnKpx6p9Q";</script>
+<script type="text/javascript">window.glrl_key_status = false;</script>
+<link rel="icon" type="image/png" href="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1539562365166x854307886911556100%2FPNG2icon.png?w=128&h=&auto=compress&dpr=1&fit=max" />
+<meta name="fragment" content="!">
+<meta name="description" content="Respublica is a political simulator where users can run for office and interact with states on a geopolitical level.">
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:title" content="United States of America" />
+<meta name="twitter:title" content="United States of America" />
+<meta property="og:site_name" content="Respublica" />
+<meta name="twitter:site_name" content="Respublica" />
+<meta property="og:description" content="Respublica is a political simulator where users can run for office and interact with states on a geopolitical level." />
+<meta name="twitter:description" content="Respublica is a political simulator where users can run for office and interact with states on a geopolitical level." />
+<link rel="image_src" href="https://dd7tel2830j4w.cloudfront.net/f1538410705853x954044196987524600/1200px-Flag_of_the_United_States.svg.png" />
+<meta property="og:image" content="https://dd7tel2830j4w.cloudfront.net/f1538410705853x954044196987524600/1200px-Flag_of_the_United_States.svg.png" />
+<meta name="twitter:image:src" content="https://dd7tel2830j4w.cloudfront.net/f1538410705853x954044196987524600/1200px-Flag_of_the_United_States.svg.png" />
+<meta property="og:url" content="https://respublica.co/country?country=United%20States%20of%20America" />
+<meta property="og:type" content="website" />
+<link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="//s3.amazonaws.com/appforest_uf/f1539563026618x784625684143975400/iphonescreen.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="//s3.amazonaws.com/appforest_uf/f1539563139226x513776346342638140/ipadscreen.png">
+<link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="//s3.amazonaws.com/appforest_uf/f1539563253669x339552834630012540/ipadscreen2.png">
+<link rel="apple-touch-icon" href="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1539562860319x416407167213037630%2FUntitleasdsdICON.png?w=192&h=&auto=compress&dpr=1&fit=max">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<script type="text/javascript">
+    window._p = '{"no_branding":true,"import_export_csv":true,"custom_domain":true,"ab_test_integration":false}';
+</script>
+<script type="text/javascript">
+    window.bubble_page_name = "country";
+</script>
+<link type="text/css" href="https://dhtiece9044ep.cloudfront.net/package/run_css/df4f9ffe3853fe5a38a04757f41e37fa6fc244230ad518888c83a4139ca0a30f/influence-geopolitics/live/country/xfalse/xfalse" rel="stylesheet">
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['pre_runjs'] = Date.now();
+</script>
+<script type="text/javascript" crossorigin="anonymous" charset="UTF-8" src="https://dhtiece9044ep.cloudfront.net/package/run_js/2c3b1ab3ce15e86acf068f6f6bc03eec3654841b7db8e68a8c9d0f14c98752b2/xfalse/x15"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_runjs'] = Date.now();
+</script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['pre_staticjs'] = Date.now();
+</script>
+<script type="text/javascript" crossorigin="anonymous" charset="UTF-8" src="https://dhtiece9044ep.cloudfront.net/package/static_js/1455460bb5e2565e06154b02b104d0079596c61d963fd8cda4dfa5e1a4f011fa/influence-geopolitics/live/country/xnull/xfalse/xfalse/xfalse"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_staticjs'] = Date.now();
+</script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['pre_dynamicjs'] = Date.now();
+</script>
+<script type="text/javascript" crossorigin="anonymous" charset="UTF-8" src="https://dhtiece9044ep.cloudfront.net/package/dynamic_js/db0ce0fb2ce5a33be17c6ab5dfb3c7263807b90957b5d49d1ba6717096e8c963/influence-geopolitics/live/country/xnull/xfalse/xfalse/en_us/xfalse/xfalse"></script>
+<script type="text/javascript">
+if (!window._bubble_page_load_data) {
+window._bubble_page_load_data = {}
+}
+window._bubble_page_load_data['post_dynamicjs'] = Date.now();
+</script>
+
+<script type="text/javascript" src="//dd7tel2830j4w.cloudfront.net/f1618227041113x740068462949819800/clipboard.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.4/linkify.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.4/linkify-jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.5/linkify-html.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.5/linkify-plugin-hashtag.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.5/linkify-plugin-mention.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.5/linkify-element.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jQuery-linkify/2.1.5/linkify-string.js"></script>
+<link rel="stylesheet" href="https://dd7tel2830j4w.cloudfront.net/f1588348804238x989271584628493600/tribute.css" />
+<script src="https://dd7tel2830j4w.cloudfront.net/f1588348755134x612619409403329700/tribute.js"></script>
+<style>
+  .tribute-container ul {
+    background: 
+  }
+  .tribute-container li.highlight, .tribute-container li:hover {
+    background:  }
+</style>
+<script>
+  window.taggers = {};
+</script>
+
+<script src="https://www.paypal.com/sdk/js?client-id="> // Required. Replace SB_CLIENT_ID with your sandbox client ID.
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.6.1/mousetrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.6.1/plugins/global-bind/mousetrap-global-bind.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.6.1/plugins/pause/mousetrap-pause.min.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Lato|Lora|Merriweather|Mirza|Montserrat|Noto+Sans|Open+Sans|Open+Sans+Condensed:300|Oswald|PT+Sans|PT+Sans+Narrow|Playfair+Display|Raleway|Roboto|Roboto+Condensed|Roboto+Slab|Slabo+27px|Source+Sans+Pro|Ubuntu&display=swap" rel="stylesheet">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/quill/1.3.7/quill.snow.min.css />
+<link rel=stylesheet href=https://unpkg.com/quill-mention@2.1.4/dist/quill.mention.min.css />
+<link rel=stylesheet href=https://unpkg.com/quill@1.3.7/dist/quill.bubble.css />
+<link rel="stylesheet" href="https://unpkg.com/quill-emoji@0.2.0/dist/quill-emoji.css">
+<script src="//dd7tel2830j4w.cloudfront.net/f1622532578381x137946658979110290/zq-quill.js"></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/preact/8.5.2/preact.min.js></script>
+<style>
+    .easyrte-wrapper-bubble {
+        display: flex;
+        flex-flow: column;
+    }
+    
+    .easyrte-editor-bubble {
+        flex: 0 1 auto;
+    }
+    
+    .ql-tooltip {
+        border-radius: 5px !important;
+    }
+    
+    .ql-bubble .ql-picker.ql-lineheight {
+        width: 58px;
+    }
+    
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label {
+        padding: 0 !important;
+    }
+    
+    .ql-bubble .ql-picker.ql-lineheight svg {
+        display: none;
+    }
+
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='lineheight']::before {content: 'L-Height';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='lineheight']::before {content: 'L-Height' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='1.0']::before {content: '1.0';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='1.0']::before {content: '1.0' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='1.2']::before {content: '1.2';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='1.2']::before {content: '1.2' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='1.5']::before {content: '1.5';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='1.5']::before {content: '1.5' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='1.6']::before {content: '1.6';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='1.6']::before {content: '1.6' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='1.8']::before {content: '1.8';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='1.8']::before {content: '1.8' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='2.0']::before {content: '2.0';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='2.0']::before {content: '2.0' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='2.4']::before {content: '2.4';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='2.4']::before {content: '2.4' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='2.8']::before {content: '2.8';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='2.8']::before {content: '2.8' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='3.0']::before {content: '3.0';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='3.0']::before {content: '3.0' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='4.0']::before {content: '4.0';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='4.0']::before {content: '4.0' !important;}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-item[data-value='5.0']::before {content: '5.0';}
+    .ql-bubble .ql-picker.ql-lineheight .ql-picker-label[data-value='5.0']::before {content: '5.0' !important;}
+    
+    .ql-picker-options {
+        max-height: 250px;
+        overflow-y: scroll;
+    }
+    
+    .easyrte-wrapper {
+        height: 100%;
+        display: flex;
+        flex-flow: column;
+    }
+
+    .easyrte-editor {
+        flex: 0 1 auto;
+    }
+
+    .quill-editor iframe {
+        pointer-events: none;
+    }
+
+
+    .ql-snow .ql-picker.ql-lineheight {
+        width: 58px;
+    }
+    
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label {
+        padding: 0 !important;
+    }
+    
+    .ql-snow .ql-picker.ql-lineheight svg {
+        display: none;
+    }
+
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='lineheight']::before {content: 'L-Height';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='lineheight']::before {content: 'L-Height' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='1.0']::before {content: '1.0';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='1.0']::before {content: '1.0' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='1.2']::before {content: '1.2';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='1.2']::before {content: '1.2' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='1.5']::before {content: '1.5';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='1.5']::before {content: '1.5' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='1.6']::before {content: '1.6';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='1.6']::before {content: '1.6' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='1.8']::before {content: '1.8';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='1.8']::before {content: '1.8' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='2.0']::before {content: '2.0';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='2.0']::before {content: '2.0' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='2.4']::before {content: '2.4';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='2.4']::before {content: '2.4' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='2.8']::before {content: '2.8';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='2.8']::before {content: '2.8' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='3.0']::before {content: '3.0';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='3.0']::before {content: '3.0' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='4.0']::before {content: '4.0';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='4.0']::before {content: '4.0' !important;}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-item[data-value='5.0']::before {content: '5.0';}
+    .ql-snow .ql-picker.ql-lineheight .ql-picker-label[data-value='5.0']::before {content: '5.0' !important;}
+    .mention>span{cursor: pointer!important;}
+    
+</style>
+<script>
+    // Specify the fonts you would 
+    const fonts = ['Arial', 'Courier', 'Garamond', 'Tahoma', 'Times New Roman', 'Verdana', 'Lato', 'Roboto', 'Mirza', 'Open Sans', 'Oswald', 'Slabo 27px', 'Roboto Condensed', 'PT Sans Narrow', 'Playfair Display', 'Noto Sans', 'Ubuntu', 'Merriweather', 'Lora', 'Roboto Slab', 'Open Sans Condensed', 'PT Sans', 'Raleway', 'Source Sans Pro', 'Montserrat'];
+
+    // Generate code friendly names
+    const getFontName = font => font.toLowerCase().replace(/\s/g, "");
+    const fontNames = fonts.map(font => getFontName(font));
+
+    // Add fonts to style
+    let fontStyles = "";
+    let fontStyles2 = "";
+    fonts.forEach(font => {
+        var fontName = getFontName(font);
+        fontStyles += ".ql-snow .ql-picker.ql-font .ql-picker-label[data-value=" + fontName + "]::before, .ql-snow .ql-picker.ql-font .ql-picker-item[data-value=" + fontName + "]::before {" +
+            "content: '" + font + "';" +
+            "font-family: '" + font + "', sans-serif;" +
+            "}" +
+            ".ql-font-" + fontName + "{" +
+            " font-family: '" + font + "', sans-serif;" +
+            "}";
+        
+        fontStyles2 += ".ql-bubble .ql-picker.ql-font .ql-picker-label[data-value=" + fontName + "]::before, .ql-bubble .ql-picker.ql-font .ql-picker-item[data-value=" + fontName + "]::before {" +
+            "content: '" + font + "';" +
+            "font-family: '" + font + "', sans-serif;" +
+            "}" +
+            ".ql-font-" + fontName + "{" +
+            " font-family: '" + font + "', sans-serif;" +
+            "}";
+    });
+
+    const node = document.createElement('style');
+    const node2 = document.createElement('style');
+    node.innerHTML = fontStyles;
+    node2.innerHTML = fontStyles2;
+    document.head.append(node, node2);
+</script>
+
+<style>
+    
+    blockquote {
+        border-left: 4px solid #ccc;
+   		margin-bottom: 5px;
+    	margin-top: 5px;
+        padding-left: 16px;
+    }
+    
+    ul, ol {
+    	list-style-position: outside;
+    }
+    
+    .ql-font .ql-picker-label:first-child::before {
+    	font-family: inherit;    
+        overflow: hide;
+    }
+    
+    .ql-font .ql-picker-label {
+        overflow: hidden;
+    }
+    
+    .regular-header-icon {
+        color: #444;
+    }
+    
+    .tooltip-header-icon {
+        color: #ccc;
+    }
+    
+</style>
+
+<script>/*! * jQuery Mousewheel 3.1.13 * Copyright OpenJS Foundation and other contributors */!function(e){"function"==typeof define&&define.amd?define(["jquery"],e):"object"==typeof exports?module.exports=e:e(jQuery)}(function(u){var f,d,e=["wheel","mousewheel","DOMMouseScroll","MozMousePixelScroll"],t="onwheel"in window.document||9<=window.document.documentMode?["wheel"]:["mousewheel","DomMouseScroll","MozMousePixelScroll"],w=Array.prototype.slice;if(u.event.fixHooks)for(var i=e.length;i;)u.event.fixHooks[e[--i]]=u.event.mouseHooks;var c=u.event.special.mousewheel={version:"3.1.12",setup:function(){if(this.addEventListener)for(var e=t.length;e;)this.addEventListener(t[--e],n,!1);else this.onmousewheel=n;u.data(this,"mousewheel-line-height",c.getLineHeight(this)),u.data(this,"mousewheel-page-height",c.getPageHeight(this))},teardown:function(){if(this.removeEventListener)for(var e=t.length;e;)this.removeEventListener(t[--e],n,!1);else this.onmousewheel=null;u.removeData(this,"mousewheel-line-height"),u.removeData(this,"mousewheel-page-height")},getLineHeight:function(e){var t=u(e),i=t["offsetParent"in u.fn?"offsetParent":"parent"]();return i.length||(i=u("body")),parseInt(i.css("fontSize"),10)||parseInt(t.css("fontSize"),10)||16},getPageHeight:function(e){return u(e).height()},settings:{adjustOldDeltas:!0,normalizeOffset:!0}};function n(e){var t,i=e||window.event,n=w.call(arguments,1),o=0,l=0,s=0;if((e=u.event.fix(i)).type="mousewheel","detail"in i&&(s=-1*i.detail),"wheelDelta"in i&&(s=i.wheelDelta),"wheelDeltaY"in i&&(s=i.wheelDeltaY),"wheelDeltaX"in i&&(l=-1*i.wheelDeltaX),"axis"in i&&i.axis===i.HORIZONTAL_AXIS&&(l=-1*s,s=0),o=0===s?l:s,"deltaY"in i&&(o=s=-1*i.deltaY),"deltaX"in i&&(l=i.deltaX,0===s&&(o=-1*l)),0!==s||0!==l){if(1===i.deltaMode){var a=u.data(this,"mousewheel-line-height");o*=a,s*=a,l*=a}else if(2===i.deltaMode){var h=u.data(this,"mousewheel-page-height");o*=h,s*=h,l*=h}if(t=Math.max(Math.abs(s),Math.abs(l)),(!d||t<d)&&g(i,d=t)&&(d/=40),g(i,t)&&(o/=40,l/=40,s/=40),o=Math[1<=o?"floor":"ceil"](o/d),l=Math[1<=l?"floor":"ceil"](l/d),s=Math[1<=s?"floor":"ceil"](s/d),c.settings.normalizeOffset&&this.getBoundingClientRect){var r=this.getBoundingClientRect();e.offsetX=e.clientX-r.left,e.offsetY=e.clientY-r.top}return e.deltaX=l,e.deltaY=s,e.deltaFactor=d,e.deltaMode=0,n.unshift(e,o,l,s),f&&window.clearTimeout(f),f=window.setTimeout(m,200),(u.event.dispatch||u.event.handle).apply(this,n)}}function m(){d=null}function g(e,t){return c.settings.adjustOldDeltas&&"mousewheel"===e.type&&t%120==0}u.fn.extend({mousewheel:function(e){return e?this.on("mousewheel",e):this.trigger("mousewheel")},unmousewheel:function(e){return this.off("mousewheel",e)}})});</script>
+
+<script>  window["simplemaps_usmap_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "no",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 1,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "map",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {        HI: {          name: "Hawaii",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        AK: {          name: "Alaska",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        FL: {          name: "Florida",          description: "default",          color: "default",          hover_color: "default",          url: "default",          inactive: "no"        },        NH: {          name: "New Hampshire",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        VT: {          name: "Vermont",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        ME: {          name: "Maine",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        RI: {          name: "Rhode Island",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        NY: {          name: "New York",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        PA: {          name: "Pennsylvania",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        NJ: {          name: "New Jersey",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        DE: {          name: "Delaware",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MD: {          name: "Maryland",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        VA: {          name: "Virginia",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        WV: {          name: "West Virginia",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        OH: {          name: "Ohio",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        IN: {          name: "Indiana",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        IL: {          name: "Illinois",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        CT: {          name: "Connecticut",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        WI: {          name: "Wisconsin",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        NC: {          name: "North Carolina",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        DC: {          name: "District of Columbia",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MA: {          name: "Massachusetts",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        TN: {          name: "Tennessee",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        AR: {          name: "Arkansas",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MO: {          name: "Missouri",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        GA: {          name: "Georgia",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        SC: {          name: "South Carolina",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        KY: {          name: "Kentucky",          description: "default",          color: "default",          zoomable: "no",          hover_color: "default",          url: "default"        },        AL: {          name: "Alabama",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        LA: {          name: "Louisiana",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MS: {          name: "Mississippi",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        IA: {          name: "Iowa",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MN: {          name: "Minnesota",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        OK: {          name: "Oklahoma",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        TX: {          name: "Texas",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        NM: {          name: "New Mexico",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        KS: {          name: "Kansas",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        NE: {          name: "Nebraska",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        SD: {          name: "South Dakota",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        ND: {          name: "North Dakota",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        WY: {          name: "Wyoming",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MT: {          name: "Montana",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        CO: {          name: "Colorado",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        UT: {          name: "Utah",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        AZ: {          name: "Arizona",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        NV: {          name: "Nevada",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        OR: {          name: "Oregon",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        WA: {          name: "Washington",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        CA: {          name: "California",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        MI: {          name: "Michigan",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        ID: {          name: "Idaho",          description: "default",          color: "default",          hover_color: "default",          url: "default"        },        GU: {          name: "Guam",          description: "default",          color: "default",          hover_color: "default",          url: "default",          hide: "yes"        },        VI: {          name: "Virgin Islands",          description: "default",          color: "default",          hover_color: "default",          url: "default",          hide: "yes"        },        PR: {          name: "Puerto Rico",          description: "default",          color: "default",          hover_color: "default",          url: "default",          hide: "yes"        },        AS: {          name: "American Samoa",          description: "default",          color: "default",          hover_color: "default",          url: "default",          hide: "yes"        },        MP: {          name: "Northern Mariana Islands",          description: "default",          color: "default",          hover_color: "default",          url: "default",          hide: "yes"        }      },      locations: {      },      labels: {    NH: {      parent_id: "NH",      x: "932",      y: "183",      pill: "yes",      width: 45,      display: "all"    },    VT: {      parent_id: "VT",      x: "883",      y: "243",      pill: "yes",      width: 45,      display: "all"    },    RI: {      parent_id: "RI",      x: "932",      y: "273",      pill: "yes",      width: 45,      display: "all"    },    NJ: {      parent_id: "NJ",      x: "883",      y: "273",      pill: "yes",      width: 45,      display: "all"    },    DE: {      parent_id: "DE",      x: "883",      y: "303",      pill: "yes",      width: 45,      display: "all"    },    MD: {      parent_id: "MD",      x: "932",      y: "303",      pill: "yes",      width: 45,      display: "all"    },    DC: {      parent_id: "DC",      x: "884",      y: "332",      pill: "yes",      width: 45,      display: "all"    },    MA: {      parent_id: "MA",      x: "932",      y: "213",      pill: "yes",      width: 45,      display: "all"    },    CT: {      parent_id: "CT",      x: "932",      y: "243",      pill: "yes",      width: 45,      display: "all"    },    HI: {      parent_id: "HI",      x: 305,      y: 565,      pill: "yes"    },    AK: {      parent_id: "AK",      x: "113",      y: "495"    },    FL: {      parent_id: "FL",      x: "773",      y: "510"    },    ME: {      parent_id: "ME",      x: "893",      y: "85"    },    NY: {      parent_id: "NY",      x: "815",      y: "158"    },    PA: {      parent_id: "PA",      x: "786",      y: "210"    },    VA: {      parent_id: "VA",      x: "790",      y: "282"    },    WV: {      parent_id: "WV",      x: "744",      y: "270"    },    OH: {      parent_id: "OH",      x: "700",      y: "240"    },    IN: {      parent_id: "IN",      x: "650",      y: "250"    },    IL: {      parent_id: "IL",      x: "600",      y: "250"    },    WI: {      parent_id: "WI",      x: "575",      y: "155"    },    NC: {      parent_id: "NC",      x: "784",      y: "326"    },    TN: {      parent_id: "TN",      x: "655",      y: "340"    },    AR: {      parent_id: "AR",      x: "548",      y: "368"    },    MO: {      parent_id: "MO",      x: "548",      y: "293"    },    GA: {      parent_id: "GA",      x: "718",      y: "405"    },    SC: {      parent_id: "SC",      x: "760",      y: "371"    },    KY: {      parent_id: "KY",      x: "680",      y: "300"    },    AL: {      parent_id: "AL",      x: "655",      y: "405"    },    LA: {      parent_id: "LA",      x: "550",      y: "435"    },    MS: {      parent_id: "MS",      x: "600",      y: "405"    },    IA: {      parent_id: "IA",      x: "525",      y: "210"    },    MN: {      parent_id: "MN",      x: "506",      y: "124"    },    OK: {      parent_id: "OK",      x: "460",      y: "360"    },    TX: {      parent_id: "TX",      x: "425",      y: "435"    },    NM: {      parent_id: "NM",      x: "305",      y: "365"    },    KS: {      parent_id: "KS",      x: "445",      y: "290"    },    NE: {      parent_id: "NE",      x: "420",      y: "225"    },    SD: {      parent_id: "SD",      x: "413",      y: "160"    },    ND: {      parent_id: "ND",      x: "416",      y: "96"    },    WY: {      parent_id: "WY",      x: "300",      y: "180"    },    MT: {      parent_id: "MT",      x: "280",      y: "95"    },    CO: {      parent_id: "CO",      x: "320",      y: "275"    },    UT: {      parent_id: "UT",      x: "223",      y: "260"    },    AZ: {      parent_id: "AZ",      x: "205",      y: "360"    },    NV: {      parent_id: "NV",      x: "140",      y: "235"    },    OR: {      parent_id: "OR",      x: "100",      y: "120"    },    WA: {      parent_id: "WA",      x: "130",      y: "55"    },    ID: {      parent_id: "ID",      x: "200",      y: "150"    },    CA: {      parent_id: "CA",      x: "79",      y: "285"    },    MI: {      parent_id: "MI",      x: "663",      y: "185"    },    PR: {      parent_id: "PR",      x: "620",      y: "545"    },    GU: {      parent_id: "GU",      x: "550",      y: "540"    },    VI: {      parent_id: "VI",      x: "680",      y: "519"    },    MP: {      parent_id: "MP",      x: "570",      y: "575"    },    AS: {      parent_id: "AS",      x: "665",      y: "580"    }  }  };    </script><script src="https://respublica.co/usmap.js"></script>
+
+<script>  window["simplemaps_custommap_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "no",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 0.9,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "mapuk",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {        bcs: {          name: "Greater Birmingham",          url: "http://respublica.co/region?region=Greater%20Birmingham",          description: "default",          color: "default",          hover_color: "default"        },        bd: {          name: "Northern Scotland",          url: "http://respublica.co/region?region=Northern%20Scotland",          description: "default",          color: "default",          hover_color: "default"        },        bh: {          name: "Bedfordshire and Hertfordshire",          url: "http://respublica.co/region?region=Bedfordshire%20and%20Hertfordshire",          description: "default",          color: "default",          hover_color: "default"        },        bno: {          name: "Bucks, Northants and Oxon",          url: "http://respublica.co/region?region=Bucks,%20Northants%20and%20Oxon",          description: "default",          color: "default",          hover_color: "default"        },        bs: {          name: "Berkshire and Surrey",          url: "http://respublica.co/region?region=Berkshire%20and%20Surrey",          description: "default",          color: "default",          hover_color: "default"        },        cd: {          name: "Cornwall and Devon",          url: "http://respublica.co/region?region=Cornwall%20and%20Devon",          description: "default",          color: "default",          hover_color: "default"        },        chsw: {          name: "Midwest England",          url: "http://respublica.co/region?region=Midwest%20England",          description: "default",          color: "default",          hover_color: "default"        },        chsws: {          name: "Eastern Scotland",          url: "http://respublica.co/region?region=Eastern%20Scotland",          description: "default",          color: "default",          hover_color: "default"        },        cl: {          name: "Central London",          url: "http://respublica.co/region?region=Central%20London",          description: "default",          color: "default",          hover_color: "default"        },        cls: {          name: "Cumbria and Lancashire",          url: "http://respublica.co/region?region=Cumbria%20and%20Lancashire",          description: "default",          color: "default",          hover_color: "default"        },        csf: {          name: "Cambs, Suffolk and Norfolk",          url: "http://respublica.co/region?region=Cambs,%20Suffolk%20and%20Norfolk",          description: "default",          color: "default",          hover_color: "default"        },        cwwp: {          name: "East Wales",          url: "http://respublica.co/region?region=East%20Wales",          description: "default",          color: "default",          hover_color: "default"        },        d: {          name: "Durham",          url: "http://respublica.co/region?region=Durham",          description: "default",          color: "default",          hover_color: "default"        },        dg: {          name: "West Wales",          url: "http://respublica.co/region?region=West%20Wales",          description: "default",          color: "default",          hover_color: "default"        },        dgl: {          name: "Dorset, Gloucs and Wiltshire",          url: "http://respublica.co/region?region=Dorset,%20Gloucs%20and%20Wiltshire",          description: "default",          color: "default",          hover_color: "default"        },        dn: {          name: "Derbyshire and Nottinghamshire",          url: "http://respublica.co/region?region=Derbyshire%20and%20Nottinghamshire",          description: "default",          color: "default",          hover_color: "default"        },        doww: {          name: "South Staffordshire",          url: "http://respublica.co/region?region=South%20Staffordshire",          description: "default",          color: "default",          hover_color: "default"        },        e: {          name: "Essex",          url: "http://respublica.co/region?region=Essex",          description: "default",          color: "default",          hover_color: "default"        },        el: {          name: "East London",          url: "http://respublica.co/region?region=East%20London",          description: "default",          color: "default",          hover_color: "default"        },        hiw: {          name: "Hampshire and the Isle of Wight",          url: "http://respublica.co/region?region=Hampshire%20and%20the%20Isle%20of%20Wight",          description: "default",          color: "default",          hover_color: "default"        },        hny: {          name: "Humberside and North Yorkshire",          url: "http://respublica.co/region?region=Humberside%20and%20North%20Yorkshire",          description: "default",          color: "default",          hover_color: "default"        },        k: {          name: "Kent",          url: "http://respublica.co/region?region=Kent",          description: "default",          color: "default",          hover_color: "default"        },        llsr: {          name: "Leics, Lincs and Rutland",          url: "http://respublica.co/region?region=Leics,%20Lincs%20and%20Rutland",          description: "default",          color: "default",          hover_color: "default"        },        m: {          name: "Merseyside",          url: "http://respublica.co/region?region=Merseyside",          description: "default",          color: "default",          hover_color: "default"        },        ni: {          name: "Northern Ireland",          url: "http://respublica.co/region?region=Northern%20Ireland",          description: "default",          color: "default",          hover_color: "default"        },        nl: {          name: "North London",          url: "http://respublica.co/region?region=North%20London",          description: "default",          color: "default",          hover_color: "default"        },        nmch: {          name: "North Manchester",          url: "http://respublica.co/region?region=North%20Manchester",          description: "default",          color: "default",          hover_color: "default"        },        ntw: {          name: "Northumberland, Tyne and Wear",          url: "http://respublica.co/region?region=Northumberland,%20Tyne%20and%20Wear",          description: "default",          color: "default",          hover_color: "default"        },        sab: {          name: "Somerset and Bristol",          url: "http://respublica.co/region?region=Somerset%20and%20Bristol",          description: "default",          color: "default",          hover_color: "default"        },        smc: {          name: "South Manchester",          url: "http://respublica.co/region?region=South%20Manchester",          description: "default",          color: "default",          hover_color: "default"        },        sw: {          name: "Staffordshire and Warwickshire",          url: "http://respublica.co/region?region=Staffordshire%20and%20Warwickshire",          description: "default",          color: "default",          hover_color: "default"        },        sws: {          name: "South Western Scotland",          url: "http://respublica.co/region?region=South%20Western%20Scotland",          description: "default",          color: "default",          hover_color: "default"        },        sx: {          name: "Sussex",          url: "http://respublica.co/region?region=Sussex",          description: "default",          color: "default",          hover_color: "default"        },        sy: {          name: "South Yorkshire",          url: "http://respublica.co/region?region=South%20Yorkshire",          description: "default",          color: "default",          hover_color: "default"        },        wl: {          name: "West London",          url: "http://respublica.co/region?region=West%20London",          description: "default",          color: "default",          hover_color: "default"        },        wy: {          name: "West Yorkshire",          url: "http://respublica.co/region?region=West%20Yorkshire",          description: "default",          color: "default",          hover_color: "default"        }      },      locations: {      },      labels: {    }  };    </script><script src="https://respublica.co/custommap.js"></script>
+
+<script>  window["simplemaps_countrymap_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "no",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 1,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "mapgerm",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {    DEU1572: {      name: "North Rhine-Westphalia",      url: "http://respublica.co/region?region=North%20Rhine-Westphalia"    },    DEU1573: {      name: "Baden-WÃ¼rttemberg",      url: "http://respublica.co/region?region=Baden-W%C3%BCrttemberg"    },    DEU1574: {      name: "Hesse",      url: "http://respublica.co/region?region=Hesse"    },    DEU1575: {      name: "Bremen",      url: "http://respublica.co/region?region=Bremen"    },    DEU1576: {      name: "Lower Saxony",      url: "http://respublica.co/region?region=Lower%20Saxony"    },    DEU1577: {      name: "Thuringia",      url: "http://respublica.co/region?region=Thuringia"    },    DEU1578: {      name: "Hamburg",      url: "http://respublica.co/region?region=Hamburg"    },    DEU1579: {      name: "Schleswig-Holstein",      url: "http://respublica.co/region?region=Schleswig-Holstein"    },    DEU1580: {      name: "Rhineland-Palatinate",      url: "http://respublica.co/region?region=Rhineland-Palatinate"    },    DEU1581: {      name: "Saarland",      url: "http://respublica.co/region?region=Saarland"    },    DEU1591: {      name: "Bavaria",      url: "http://respublica.co/region?region=Bavaria"    },    DEU1599: {      name: "Berlin",      url: "http://respublica.co/region?region=Berlin"    },    DEU1600: {      name: "Saxony-Anhalt",      url: "http://respublica.co/region?region=Saxony-Anhalt"    },    DEU1601: {      name: "Saxony",      url: "http://respublica.co/region?region=Saxony"    },    DEU3487: {      name: "Brandenburg",      url: "http://respublica.co/region?region=Brandenburg"    },    DEU3488: {      name: "Mecklenburg-Vorpommern",      url: "http://respublica.co/region?region=Mecklenburg-Vorpommern"    }  },      locations: {      },      labels: {    }  };    </script><script src="https://respublica.co/countrymap.js"></script>
+
+<script>  window["simplemaps_countrymapfr_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "no",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 0.9,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "francemap",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {    FRDI: {      name: "Bourgogne-Franche-ComtÃ©",      url: "https://respublica.co/region?region=Bourgogne-Franche-Comt%C3%A9"    },    FRE: {      name: "Bretagne",      url: "https://respublica.co/region?region=Bretagne"    },    FRF: {      name: "Centre-Val de Loire",      url: "https://respublica.co/region?region=Centre-Val%20de%20Loire"    },    FRGMA: {      name: "Grand Est",      url: "https://respublica.co/region?region=Grand%20Est"    },    FRH: {      name: "Corse",      url: "https://respublica.co/region?region=Corse"    },    FRJ: {      name: "ÃŽle-de-France",      url: "https://respublica.co/region?region=%C3%8Ele-de-France"    },    FRNK: {      name: "Occitanie",      url: "https://respublica.co/region?region=Occitanie"    },    FRPQ: {      name: "Normandie",      url: "https://respublica.co/region?region=Normandie"    },    FRR: {      name: "Pays de la Loire",      url: "https://respublica.co/region?region=Pays%20de%20la%20Loire"    },    FRSO: {      name: "Hauts-de-France",      url: "https://respublica.co/region?region=Hauts-de-France"    },    FRTLB: {      name: "Nouvelle-Aquitaine",      url: "https://respublica.co/region?region=Nouvelle-Aquitaine"    },    FRU: {      name: "Provence-Alpes-CÃ´te d'Azur",      url: "https://respublica.co/region?region=Provence-Alpes-C%C3%B4te%20d%27Azur"    },    FRVU: {      name: "Auvergne-RhÃ´ne-Alpes",      url: "https://respublica.co/region?region=Auvergne-Rh%C3%B4ne-Alpes"    }  },      locations: {      },      labels: {    }  };    </script><script src="//dd7tel2830j4w.cloudfront.net/f1607804167808x178356054333720160/countrymapfr.js"></script>
+
+<script>  window["simplemaps_countrymapcn_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "yes",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 0.9,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "chinamap",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {    CHN1150: {      name: "Gansu",      description: "default",      color: "default",      hover_color: "default",      url: "http://respublica.co/region?region=Gansu%20Province"    },    CHN1151: {      name: "Qinghai",      url: "http://respublica.co/region?region=Qinghai%20Province"    },    CHN1152: {      name: "Guangxi",      url: "http://respublica.co/region?region=Guangxi%20Zhuang%20Autonomous%20Region"    },    CHN1153: {      name: "Guizhou",      url: "http://respublica.co/region?region=Guizhou%20Province"    },    CHN1154: {      name: "Chongqing",      url: "http://respublica.co/region?region=Chongqing%20Municipality"    },    CHN1155: {      name: "Beijing",      url: "http://respublica.co/region?region=Beijing%20Municipality"    },    CHN1178: {      name: "Fujian",      url: "http://respublica.co/region?region=Fujian%20Province"    },    CHN1179: {      name: "Anhui",      url: "http://respublica.co/region?region=Anhui%20Province"    },    CHN1180: {      name: "Guangdong",      url: "http://respublica.co/region?region=Guangdong%20Province"    },    CHN1662: {      name: "Xizang",      url: "http://respublica.co/region?region=Tibet%20Autonomous%20Region"    },    CHN1756: {      name: "Xinjiang",      url: "http://respublica.co/region?region=Xinjiang%20Uyghur%20Autonomous%20Region"    },    CHN1775: {      name: "Hainan",      url: "http://respublica.co/region?region=Hainan%20Province"    },    CHN1803: {      name: "Ningxia",      url: "http://respublica.co/region?region=Ningxia%20Hui%20Autonomous%20Region"    },    CHN1804: {      name: "Shaanxi",      url: "http://respublica.co/region?region=Shaanxi%20Province"    },    CHN1805: {      name: "Shanxi",      url: "http://respublica.co/region?region=Shanxi%20Province"    },    CHN1807: {      name: "Hubei",      url: "http://respublica.co/region?region=Hubei%20Province"    },    CHN1808: {      name: "Hunan",      url: "http://respublica.co/region?region=Hunan%20Province"    },    CHN1809: {      name: "Sichuan",      url: "http://respublica.co/region?region=Sichuan%20Province"    },    CHN1810: {      name: "Yunnan",      url: "http://respublica.co/region?region=Yunnan%20Province"    },    CHN1811: {      name: "Hebei",      url: "http://respublica.co/region?region=Hebei%20Province"    },    CHN1812: {      name: "Henan",      url: "http://respublica.co/region?region=Henan%20Province"    },    CHN1813: {      name: "Liaoning",      url: "http://respublica.co/region?region=Liaoning%20Province"    },    CHN1814: {      name: "Shandong",      url: "http://respublica.co/region?region=Shandong%20Province"    },    CHN1816: {      name: "Tianjin",      url: "http://respublica.co/region?region=Tianjin%20Municipality"    },    CHN1817: {      name: "Jiangxi",      url: "http://respublica.co/region?region=Jiangxi%20Province"    },    CHN1818: {      name: "Jiangsu",      url: "http://respublica.co/region?region=Jiangsu%20Province"    },    CHN1819: {      name: "Shanghai",      url: "http://respublica.co/region?region=Shanghai%20Municipality"    },    CHN1820: {      name: "Zhejiang",      url: "http://respublica.co/region?region=Zhejiang%20Province"    },    CHN1828: {      name: "Jilin",      url: "http://respublica.co/region?region=Jilin%20Province"    },    CHN1838: {      name: "Inner Mongol",      url: "http://respublica.co/region?region=Inner%20Mongolia%20Autonomous%20Region"    },    CHN1839: {      name: "Heilongjiang",      url: "http://respublica.co/region?region=Heilongjiang%20Province"    },    PFA00: {      name: "Paracel Islands",      url: ""    }  },      locations: {      },      labels: {    }  };    </script><script src="//dd7tel2830j4w.cloudfront.net/f1607806602958x987642171010139000/countrymapcn.js"></script>
+
+<script>  window["simplemaps_countrymapru_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "yes",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 1,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "russiamap",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {    RUS2167: {      name: "Tomsk",      description: "default",      color: "default",      hover_color: "default",      url: "https://respublica.co/region?region=Tomsk%20Oblast"    },    RUS2279: {      name: "Adygey",      url: "https://respublica.co/region?region=Adygea"    },    RUS2280: {      name: "Karachay-Cherkess",      url: "https://respublica.co/region?region=Karachay-Cherkessia"    },    RUS2303: {      name: "Ingush",      url: "https://respublica.co/region?region=Ingushetia"    },    RUS2304: {      name: "Kabardin-Balkar",      url: "https://respublica.co/region?region=Kabardino-Balkaria"    },    RUS2305: {      name: "North Ossetia",      url: "https://respublica.co/region?region=North%20Ossetia-Alania"    },    RUS2306: {      name: "Stavropol'",      url: "https://respublica.co/region?region=Stavropol%20Krai"    },    RUS2321: {      name: "Chukchi Autonomous Okrug",      url: "https://respublica.co/region?region=Chukotka%20Autonomous%20Okrug"    },    RUS2324: {      name: "Kaliningrad",      url: "https://respublica.co/region?region=Kaliningrad%20Oblast"    },    RUS2333: {      name: "Murmansk",      url: "https://respublica.co/region?region=Murmansk%20Oblast"    },    RUS2334: {      name: "Novgorod",      url: "https://respublica.co/region?region=Novgorod%20Oblast"    },    RUS2335: {      name: "Pskov",      url: "https://respublica.co/region?region=Pskov%20Oblast"    },    RUS2336: {      name: "Leningrad",      url: "https://respublica.co/region?region=Leningrad%20Oblast"    },    RUS2337: {      name: "City of St. Petersburg",      url: "https://respublica.co/region?region=Saint%20Petersburg"    },    RUS2342: {      name: "Bryansk",      url: "https://respublica.co/region?region=Bryansk%20Oblast"    },    RUS2343: {      name: "Smolensk",      url: "https://respublica.co/region?region=Smolensk%20Oblast"    },    RUS2353: {      name: "Karelia",      url: "https://respublica.co/region?region=Karelia"    },    RUS2354: {      name: "Arkhangel'sk",      url: "https://respublica.co/region?region=Arkhangelsk%20Oblast"    },    RUS2355: {      name: "Ivanovo",      url: "https://respublica.co/region?region=Ivanovo%20Oblast"    },    RUS2356: {      name: "Kostroma",      url: "https://respublica.co/region?region=Kostroma%20Oblast"    },    RUS2357: {      name: "Nizhegorod",      url: "https://respublica.co/region?region=Nizhny%20Novgorod%20Oblast"    },    RUS2358: {      name: "Tver'",      url: "https://respublica.co/region?region=Tver%20Oblast"    },    RUS2359: {      name: "Vologda",      url: "https://respublica.co/region?region=Vologda%20Oblast"    },    RUS2360: {      name: "Yaroslavl'",      url: "https://respublica.co/region?region=Yaroslavl%20Oblast"    },    RUS2361: {      name: "Kaluga",      url: "https://respublica.co/region?region=Kaluga%20Oblast"    },    RUS2362: {      name: "Kursk",      url: "https://respublica.co/region?region=Kursk%20Oblast"    },    RUS2363: {      name: "Lipetsk",      url: "https://respublica.co/region?region=Lipetsk%20Oblast"    },    RUS2364: {      name: "Moskovsskaya",      url: "https://respublica.co/region?region=Moscow%20Oblast"    },    RUS2365: {      name: "Moskva",      url: "https://respublica.co/region?region=Moscow"    },    RUS2366: {      name: "Orel",      url: "https://respublica.co/region?region=Oryol%20Oblast"    },    RUS2367: {      name: "Rostov",      url: "https://respublica.co/region?region=Rostov%20Oblast"    },    RUS2368: {      name: "Tula",      url: "https://respublica.co/region?region=Tula%20Oblast"    },    RUS2369: {      name: "Volgograd",      url: "https://respublica.co/region?region=Volgograd%20Oblast"    },    RUS2370: {      name: "Belgorod",      url: "https://respublica.co/region?region=Belgorod%20Oblast"    },    RUS2371: {      name: "Krasnodar",      url: "https://respublica.co/region?region=Krasnodar%20Krai"    },    RUS2372: {      name: "Mordovia",      url: "https://respublica.co/region?region=Mordovia"    },    RUS2373: {      name: "Penza",      url: "https://respublica.co/region?region=Penza%20Oblast"    },    RUS2374: {      name: "Ryazan'",      url: "https://respublica.co/region?region=Ryazan%20Oblast"    },    RUS2375: {      name: "Tambov",      url: "https://respublica.co/region?region=Tambov%20Oblast"    },    RUS2376: {      name: "Vladimir",      url: "https://respublica.co/region?region=Vladimir%20Oblast"    },    RUS2377: {      name: "Voronezh",      url: "https://respublica.co/region?region=Voronezh%20Oblast"    },    RUS2378: {      name: "Bashkortostan",      url: "https://respublica.co/region?region=Bashkortostan"    },    RUS2379: {      name: "Chelyabinsk",      url: "https://respublica.co/region?region=Chelyabinsk%20Oblast"    },    RUS2380: {      name: "Kurgan",      url: "https://respublica.co/region?region=Kurgan%20Oblast"    },    RUS2381: {      name: "Nenets",      url: "https://respublica.co/region?region=Nenets%20Autonomous%20Okrug"    },    RUS2382: {      name: "Yamal-Nenets",      url: "https://respublica.co/region?region=Yamalo-Nenets%20Autonomous%20Okrug"    },    RUS2383: {      name: "Komi",      url: "https://respublica.co/region?region=Komi"    },    RUS2384: {      name: "Kirov",      url: "https://respublica.co/region?region=Kirov%20Oblast"    },    RUS2385: {      name: "Mariy-El",      url: "https://respublica.co/region?region=Mari%20El"    },    RUS2386: {      name: "Sverdlovsk",      url: "https://respublica.co/region?region=Sverdlovsk%20Oblast"    },    RUS2387: {      name: "Udmurt",      url: "https://respublica.co/region?region=Udmurtia"    },    RUS2388: {      name: "Astrakhan'",      url: "https://respublica.co/region?region=Astrakhan%20Oblast"    },    RUS2389: {      name: "Chuvash",      url: "https://respublica.co/region?region=Chuvashia"    },    RUS2390: {      name: "Kalmyk",      url: "https://respublica.co/region?region=Kalmykia"    },    RUS2391: {      name: "Orenburg",      url: "https://respublica.co/region?region=Orenburg%20Oblast"    },    RUS2392: {      name: "Samara",      url: "https://respublica.co/region?region=Samara%20Oblast"    },    RUS2393: {      name: "Saratov",      url: "https://respublica.co/region?region=Saratov%20Oblast"    },    RUS2394: {      name: "Tatarstan",      url: "https://respublica.co/region?region=Tatarstan"    },    RUS2395: {      name: "Ul'yanovsk",      url: "https://respublica.co/region?region=Ulyanovsk%20Oblast"    },    RUS2396: {      name: "Khanty-Mansiy",      url: "https://respublica.co/region?region=Khanty-Mansi%20Autonomous%20Okrug"    },    RUS2397: {      name: "Omsk",      url: "https://respublica.co/region?region=Omsk%20Oblast"    },    RUS2398: {      name: "Tyumen'",      url: "https://respublica.co/region?region=Tyumen%20Oblast"    },    RUS2399: {      name: "Altay",      url: "https://respublica.co/region?region=Altai%20Krai"    },    RUS2400: {      name: "Gorno-Altay",      url: "https://respublica.co/region?region=Altai"    },    RUS2401: {      name: "Kemerovo",      url: "https://respublica.co/region?region=Kemerovo%20Oblast"    },    RUS2402: {      name: "Khakass",      url: "https://respublica.co/region?region=Khakassia"    },    RUS2403: {      name: "Novosibirsk",      url: "https://respublica.co/region?region=Novosibirsk%20Oblast"    },    RUS2416: {      name: "Chechnya",      url: "https://respublica.co/region?region=Chechnya"    },    RUS2417: {      name: "Dagestan",      url: "https://respublica.co/region?region=Dagestan"    },    RUS2602: {      name: "Irkutsk",      url: "https://respublica.co/region?region=Irkutsk%20Oblast"    },    RUS2603: {      name: "Krasnoyarsk",      url: "https://respublica.co/region?region=Krasnoyarsk%20Krai"    },    RUS2605: {      name: "Tuva",      url: "https://respublica.co/region?region=Tuva"    },    RUS2606: {      name: "Buryat",      url: "https://respublica.co/region?region=Buryatia"    },    RUS2609: {      name: "Amur",      url: "https://respublica.co/region?region=Amur%20Oblast"    },    RUS2610: {      name: "Chita",      url: "https://respublica.co/region?region=Zabaykalsky%20Krai"    },    RUS2611: {      name: "Primor'ye",      url: "https://respublica.co/region?region=Primorsky%20Krai"    },    RUS2612: {      name: "Sakha (Yakutia)",      url: "https://respublica.co/region?region=Sakha"    },    RUS2613: {      name: "Yevrey",      url: "https://respublica.co/region?region=Jewish%20Autonomous%20Oblast"    },    RUS2614: {      name: "Khabarovsk",      url: "https://respublica.co/region?region=Khabarovsk%20Krai"    },    RUS2615: {      name: "Maga Buryatdan",      url: "https://respublica.co/region?region=Magadan%20Oblast"    },    RUS2616: {      name: "Sakhalin",      url: "https://respublica.co/region?region=Sakhalin%20Oblast"    },    RUS3200: {      name: "Perm'",      url: "https://respublica.co/region?region=Perm%20Krai"    },    RUS3468: {      name: "Kamchatka",      url: "https://respublica.co/region?region=Kamchatka%20Krai"    }  },      locations: {      },      labels: {    }  };    </script><script src="//dd7tel2830j4w.cloudfront.net/f1607809564026x160969712490100600/countrymapru.js"></script>
+
+<script>  window["simplemaps_countrymapau_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",                        manual_zoom: "no",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 0.9,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "australiamap",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {    AUS00: {      name: "Macquarie Island",      description: "default",      color: "default",      hover_color: "default",      url: "default"    },    AUS1932: {      name: "Jervis Bay Territory"    },    AUS2650: {      name: "Northern Territory",      url: "http://respublica.co/region?region=Northern%20Territory"    },    AUS2651: {      name: "Western Australia",      url: "http://respublica.co/region?region=Western%20Australia"    },    AUS2653: {      name: "Australian Capital Territory",      url: "http://respublica.co/region?region=Australian%20Capital%20Territory"    },    AUS2654: {      name: "New South Wales",      url: "http://respublica.co/region?region=New%20South%20Wales"    },    AUS2655: {      name: "South Australia",      url: "http://respublica.co/region?region=South%20Australia"    },    AUS2656: {      name: "Victoria",      url: "http://respublica.co/region?region=Victoria"    },    AUS2657: {      name: "Queensland",      url: "http://respublica.co/region?region=Queensland"    },    AUS2659: {      name: "Norfolk Island"    },    AUS2660: {      name: "Tasmania",      url: "http://respublica.co/region?region=Tasmania"    }  },  locations: {  }};    </script><script src="//dd7tel2830j4w.cloudfront.net/f1627752855515x194752044164530300/countrymapau.js"></script>
+
+<script>  window["simplemaps_countrymapca_mapdata"]={      main_settings: {                    width: "responsive",         background_color: "#FFFFFF",        background_transparent: "yes",        popups: "detect",                        state_description: "State description",        state_color: "#88A4BC",        state_hover_color: "#3B729F",        state_url: "https://simplemaps.com",        border_size: 1.5,        border_color: "#ffffff",        all_states_inactive: "no",        all_states_zoomable: "yes",                        location_description: "Location description",        location_color: "#FF0067",        location_opacity: 0.8,        location_hover_opacity: 1,        location_url: "",        location_size: 25,        location_type: "square",        location_border_color: "#FFFFFF",        location_border: 2,        location_hover_border: 2.5,        all_locations_inactive: "no",        all_locations_hidden: "no",                        label_color: "#ffffff",        label_hover_color: "#ffffff",        label_size: 22,        label_font: "Arial",        hide_labels: "no",        hide_eastern_labels: "no",                        manual_zoom: "yes",        back_image: "no",        arrow_box: "no",        navigation_size: "40",        navigation_color: "#f7f7f7",        navigation_border_color: "#636363",        initial_back: "no",        initial_zoom: -1,        initial_zoom_solo: "no",        region_opacity: 1,        region_hover_opacity: 0.6,        zoom_out_incrementally: "yes",        zoom_percentage: 0.99,        zoom_time: 0.5,                        popup_color: "white",        popup_opacity: 1,        popup_shadow: 1,        popup_corners: 5,        popup_font: "12px/1.5 Verdana, Arial, Helvetica, sans-serif",        popup_nocss: "no",                        div: "canadamap",        auto_load: "no",        rotate: "0",        url_new_tab: "no",        images_directory: "default",        import_labels: "no",        fade_time: 0.1,        link_text: "View Website"      },      state_specific: {    MB: {      name: "Manitoba",      description: "default",      color: "default",      hover_color: "default",      url: "https://respublica.co/region?region=Manitoba"    },    SK: {      name: "Saskatchewan",      url: "https://respublica.co/region?region=Saskatchewan"    },    AB: {      name: "Alberta",      url: "https://respublica.co/region?region=Alberta"    },    BC: {      name: "British Columbia",      url: "https://respublica.co/region?region=British%20Columbia"    },    NU: {      name: "Nunavut",      url: "https://respublica.co/region?region=Nunavut"    },    NT: {      name: "Northwest Territories",      url: "https://respublica.co/region?region=Northwest%20Territories"    },    YT: {      name: "Yukon",      url: "https://respublica.co/region?region=Yukon"    },    ON: {      name: "Ontario",      url: "https://respublica.co/region?region=Ontario"    },    QC: {      name: "Québec",      url: "https://respublica.co/region?region=Quebec"    },    NB: {      name: "New Brunswick",      url: "https://respublica.co/region?region=New%20Brunswick"    },    NS: {      name: "Nova Scotia",      url: "https://respublica.co/region?region=Nova%20Scotia"    },    NL: {      name: "Newfoundland and Labrador",      url: "https://respublica.co/region?region=Newfoundland%20and%20Labrador"    },    PE: {      name: "Prince Edward Island",      url: "https://respublica.co/region?region=Prince%20Edward%20Island"    }  },  locations: {  },  labels: {    PE: {      x: 960,      y: 814,      parent_id: "PE",      pill: "yes",      width: 65,      display: "all"    },    NS: {      x: 960,      y: 854,      parent_id: "NS",      pill: "yes",      width: 65,      display: "all"    },    AB: {      x: 232,      y: 657,      parent_id: "AB"    },    BC: {      x: 117,      y: 635,      parent_id: "BC"    },    YT: {      x: 75,      y: 440,      parent_id: "YT"    },    NT: {      x: 225,      y: 471,      parent_id: "NT"    },    NU: {      x: 429,      y: 478,      parent_id: "NU"    },    SK: {      x: 332,      y: 670,      parent_id: "SK"    },    MB: {      x: 430,      y: 675,      parent_id: "MB"    },    NL: {      x: 840,      y: 643,      parent_id: "NL"    },    NB: {      x: 837,      y: 798,      parent_id: "NB"    },    ON: {      x: 552,      y: 747,      parent_id: "ON"    },    QC: {      x: 718,      y: 704,      parent_id: "QC"    }  }};    </script><script src="//dd7tel2830j4w.cloudfront.net/f1631487247876x712271506342431200/countrymapca.js"></script>
+
+<meta name="google-site-verification" content="7ziIFOgLHjehFeEriEADB0MT2FE9OKjeLKrSLxtC7CE" />
+</head>
+<body><script type="text/javascript">
+if (window.appquery == null) {
+    css = document.createElement('style');
+css.type='text/css';
+css.appendChild(document.createTextNode(".warning-message-failure {padding: 30px; line-height: 1.5; white-space: pre; z-index: 1000000; position: fixed; width: 100%; height: 100%; background: white;}"));
+document.getElementsByTagName("head")[0].appendChild(css);
+var newDiv = document.createElement("div");
+newDiv.className = "warning-message-failure";
+newDiv.innerHTML = "Your browser was unable to load some necessary resources, contact your IT network administrator and ask them to allow access to <br><br>     dhtiece9044ep.cloudfront.net <br>     dd7tel2830j4w.cloudfront.net/ <br>     d1muf25xaso8hp.cloudfront.net";
+document.body.appendChild(newDiv);
+    httpRequest = new XMLHttpRequest();
+httpRequest.open('POST', '/user/m', true);
+httpRequest.setRequestHeader('Content-Type', 'application/json');
+httpRequest.send(JSON.stringify({measures: {page_load_error: 1, url: document.location.href, errors: window.load_error_log}}));
+};
+</script><script type="text/javascript">if (window.appquery && window.app == null) {css = document.createElement('style');
+css.type='text/css';
+css.appendChild(document.createTextNode(".warning-message-failure {padding: 30px; line-height: 1.5; white-space: pre; z-index: 1000000; position: fixed; width: 100%; height: 100%; background: white;}"));
+document.getElementsByTagName("head")[0].appendChild(css);
+var newDiv = document.createElement("div");
+newDiv.className = "warning-message-failure";
+newDiv.innerHTML = "Your browser was unable to load the application data. We've been notified of the issue. Please try again in a few moments and make sure not to use ad-blockers.";
+document.body.appendChild(newDiv);};</script>
+<img style="display: none;" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
+</body>
+</html>
