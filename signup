@@ -1,0 +1,12 @@
+<form style="border: 1px solid #ccc;" action="action_page.php">
+<div class="container">
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/7gcnHQ0/Logo-Makr-5h6-O2j.png" alt="Logo-Makr-5h6-O2j" border="0" /></a><br />Please fill in this form to create an account.</p>
+<hr />
+<p style="text-align: left;"><label for="email"><strong>Email</strong></label> <input name="email" required="" type="text" placeholder="Enter Email" /></p>
+<p style="text-align: left;"><label for="psw"><strong>Password</strong></label> <input name="psw" required="" type="password" placeholder="Enter Password" /></p>
+<p style="text-align: left;"><label for="psw-repeat"><strong>Repeat Password</strong></label> <input name="psw-repeat" required="" type="password" placeholder="Repeat Password" /></p>
+<p style="text-align: center;"><label> <input style="margin-bottom: 15px;" checked="checked" name="remember" type="checkbox" /> Remember me </label></p>
+<p style="text-align: center;">By creating an account you agree to our <a style="color: dodgerblue;" href="termsofservice">Terms of Service</a>.</p>
+<div class="clearfix"><button class="cancelbtn" type="button">Cancel</button> <button class="signupbtn" type="submit">Sign Up</button></div>
+</div>
+</form>
